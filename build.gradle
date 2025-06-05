@@ -29,4 +29,4 @@ dependencyManagement {
     }
 }
 
-release.tagStrategy.setPrefixNameWithV(false)
+//release.tagStrategy.setPrefixNameWithV(false)
